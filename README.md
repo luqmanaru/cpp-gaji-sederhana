@@ -56,5 +56,7 @@ honor lembur RP : 5000
 honor yang diterima RP : 342500
 ```
 
+Hanif 
 
+Program ini ditulis sebagai latihan penggajian karyawan dengan logika dasar C++.
 
