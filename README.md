@@ -58,7 +58,7 @@ honor yang diterima RP : 342500
 
 ---
 
-Hanif 
+luqmanaru
 
 Program ini ditulis sebagai latihan penggajian karyawan dengan logika dasar C++.
 
